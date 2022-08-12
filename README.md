@@ -8,7 +8,7 @@ Desarrollo de tarea grupal
 Desarrollado por:
 Alejandro Cofré
 Jimena Aliaga
-Jonathan Castro
+Jonathan Castro T.
 Rolando Piñones
 Yolanda Araya
 
